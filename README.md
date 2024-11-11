@@ -1,0 +1,1 @@
+I recently completed an in-depth Exploratory Data Analysis (EDA) project on Netflix's extensive content library, utilizing Python's powerful data visualization libraries, Matplotlib and Seaborn. This project aimed to uncover insights into Netflix's offerings and user preferences.
